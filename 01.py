@@ -13,3 +13,5 @@ song = st.selectbox(
 
 
 st.write(f"You chose: {song.strip()}")
+
+st.success("Song selected!")
