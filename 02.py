@@ -81,4 +81,5 @@ if st.button("Submit"):
 
     with st.spinner("Generating your quirky personality..."):
         description = get_quirky_personality(quirky_prompt)
+        st.success("Here's your personality!\n")
         st.markdown(f"### Your Quirky Personality!\n\n{description}")
