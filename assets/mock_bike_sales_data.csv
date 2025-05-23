@@ -1,0 +1,17 @@
+Date,Customer Name,Customer Type,Bike Model,Category,Engine CC,Units Sold,Unit Price,Discount %,Tax %,Total Sale,Final Amount,Payment Method,Location
+2024-12-01,John Doe,Retail,Trek FX 1,Hybrid,250,2,550,5,8,1100,1113.60,Credit Card,New York
+2024-12-02,Jane Smith,Corporate,Specialized Rockhopper,Mountain,300,1,800,10,8,800,777.60,Bank Transfer,San Francisco
+2024-12-03,Mark Allen,Retail,Giant Contend 3,Road,200,3,750,0,8,2250,2430.00,Cash,Los Angeles
+2024-12-04,Lisa Chan,Corporate,Trek Domane AL 2,Road,180,1,950,15,8,950,866.80,Debit Card,Seattle
+2024-12-05,Emily Chen,Retail,Specialized Sirrus X,Hybrid,220,2,670,5,8,1340,1352.64,Credit Card,Boston
+2024-12-06,Paul Reeds,Retail,Cannondale Trail 7,Mountain,280,1,700,0,8,700,756.00,Cash,Denver
+2024-12-07,Nina Patel,Corporate,Giant Escape 3,Hybrid,240,4,500,20,8,2000,1728.00,Online Payment,Chicago
+2024-12-08,David Li,Retail,Trek Marlin 6,Mountain,260,2,780,5,8,1560,1579.20,Debit Card,San Diego
+2024-12-09,Alice Brown,Corporate,Cannondale Quick 4,Hybrid,210,1,630,10,8,630,612.72,Bank Transfer,Miami
+2024-12-10,James Wilson,Retail,Specialized Allez,Road,230,2,900,0,8,1800,1944.00,Credit Card,Houston
+2024-12-11,Olivia Kumar,Retail,Trek FX 1,Hybrid,250,1,550,0,8,550,594.00,Cash,Austin
+2024-12-12,Liam Johnson,Corporate,Specialized Rockhopper,Mountain,300,3,800,15,8,2400,2332.80,Online Payment,Philadelphia
+2024-12-13,Emma Davis,Retail,Giant Contend 3,Road,200,2,750,5,8,1500,1536.00,Debit Card,Phoenix
+2024-12-14,Noah Martinez,Corporate,Bajaj Avenger 160 Street Model,Motorbike,160,1,115000,10,8,115000,111780.00,Bank Transfer,Chennai
+2024-12-15,Ava Lopez,Retail,Bajaj Avenger 160 Street Model,Motorbike,160,1,115000,0,8,115000,124200.00,Credit Card,Mumbai
+2024-12-16,William Garcia,Corporate,Cannondale Trail 7,Mountain,280,2,700,5,8,1400,1411.20,Cash,Denver
