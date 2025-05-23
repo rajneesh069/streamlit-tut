@@ -18,6 +18,8 @@ if st.button("Convert"):
         rate = data.get("rates", {}).get(target_currency, 0)
         if rate != 0:
             converted_value: float = float(rate * inr)
-            st.success(f"{inr} INR = {converted_value:.2f } {target_currency}")
+            st.success(f"{inr} INR = {converted_value:.2f} {target_currency}")
+        else:
+            st.error("Currency not found in API response.")
     else:
         st.error("Failed to fetch currency data.")
